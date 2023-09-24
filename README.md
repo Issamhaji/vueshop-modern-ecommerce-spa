@@ -7,13 +7,13 @@ VueShop is a cutting-edge Single Page Application (SPA) built with Vue.js 3
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Technologies Used
-Vue.js 3
-Vue Router
-Vuex
-Axios for API communication
-HTML5 and CSS3 for styling
-Firebase for user authentication and database
-RESTful API for product data
+Vue.js 3.
+Vue Router.
+Vuex.
+Axios for API communication.
+HTML5 and CSS3 for styling.
+Firebase for user authentication and database.
+RESTful API for product data.
 
 ## Project Setup
 
